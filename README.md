@@ -7,7 +7,7 @@
 
 ---
 
-## 🧠 React & Node.j Développeur
+## 🧠 Développeur React & Node JS
 
 Je m'appelle **Dylan**, passionné par le développement web, la tech et les projets qui ont du sens.  
 Je crée des idées en applications web modernes, fluides et sécurisées.
