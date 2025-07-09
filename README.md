@@ -1,4 +1,4 @@
-![Bannière](./Banniere3.png)
+![Bannière](./Banniere.png)
 
 # 👋 Bienvenue sur mon GitHub !
 
